@@ -39,4 +39,5 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 
 ## <a name="aula1">1 - Variáveis e Dados</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula1.png?raw=true" width="600">
+
 [Índice](#indice)
