@@ -36,3 +36,7 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 2. [Promises](#aula20)
 3. [Utilizando Axios](#aula21)
 4. [Desafio](#desafio3)
+
+## <a name="aula1">1 - Variáveis e Dados</a>
+![Código - Aula 1](https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula1.png?raw=true)
+[Índice](#indice)
