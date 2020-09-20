@@ -7,7 +7,7 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 ## <a name="indice">Índice</a>
 #### Módulo 1 - Introdução JavaScript
 1. [Variáveis e Dados](#aula1)
-2. Operadores Matemáticos
+2. Operadores Matemáticos (Estudando)
 3. Funções
 4. Condicionais
 5. Operadores Lógicos
