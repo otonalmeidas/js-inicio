@@ -7,8 +7,8 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 ## <a name="indice">Índice</a>
 #### Módulo 1 - Introdução JavaScript
 1. [Variáveis e Dados](#aula1)
-2. Operadores Matemáticos (Estudando)
-3. Funções
+2. [Operadores Matemáticas](#aula2)
+3. Funções (Estudando)
 4. Condicionais
 5. Operadores Lógicos
 6. Condição Ternária
@@ -39,5 +39,10 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 
 ## <a name="aula1">1 - Variáveis e Dados</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula1.png?raw=true" width="600">
+
+[Índice](#indice)
+
+## <a name="aula2">2 - Operações Matemáticas</a>
+<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula2.png?raw=true" width="470">
 
 [Índice](#indice)
