@@ -57,7 +57,7 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 
 [Índice](#indice)
 
-## <a name="aula3">5 - Operadores Lógicos</a>
+## <a name="aula5">5 - Operadores Lógicos</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula5.png?raw=true" width="669">
 
 [Índice](#indice)
