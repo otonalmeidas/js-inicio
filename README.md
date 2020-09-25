@@ -9,9 +9,9 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 1. [Variáveis e Dados](#aula1)
 2. [Operadores Matemáticas](#aula2)
 3. [Funções](#aula2)
-4. Condicionais (Estudando)
-5. Operadores Lógicos
-6. Condição Ternária
+4. [Condicionais](#aula4)
+5. [Operadores Lógicos](#aula5)
+6. Condição Ternária (Estudando)
 7. Estrutura de Repetição
 8. Intervalo e Timeout
 9. Desafio
@@ -43,11 +43,21 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 [Índice](#indice)
 
 ## <a name="aula2">2 - Operações Matemáticas</a>
-<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula2.png?raw=true" width="470">
+<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula2.png?raw=true" width="450">
 
 [Índice](#indice)
 
 ## <a name="aula3">3 - Funções</a>
-<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula3.png?raw=true" width="470">
+<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula3.png?raw=true" width="505">
+
+[Índice](#indice)
+
+  ## <a name="aula4">4 - Condicionais</a>
+<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula4.png?raw=true" width="720">
+
+[Índice](#indice)
+
+## <a name="aula3">5 - Operadores Lógicos</a>
+<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula5.png?raw=true" width="669">
 
 [Índice](#indice)
