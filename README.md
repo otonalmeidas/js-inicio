@@ -63,6 +63,6 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 [Índice](#indice)
 
 ## <a name="aula6">6 - Condição Ternária</a>
-<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula6.png?raw=true" width="700">
+<img src="" width="500">
 
 [Índice](#indice)
