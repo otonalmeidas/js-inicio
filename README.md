@@ -12,8 +12,8 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 4. [Condicionais](#aula4)
 5. [Operadores Lógicos](#aula5)
 6. [Condição Ternária](#aula6)
-7. Estrutura de Repetição (Estudando)
-8. Intervalo e Timeout
+7. [Estruturas de Repetição](#aula7)
+8. [Intervalo e Timeout](#aula8)
 9. Desafio
 
 #### Módulo 2 - Manipulando a DOM
@@ -64,5 +64,15 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 
 ## <a name="aula6">6 - Condição Ternária</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula6.png?raw=true" width="730">
+
+[Índice](#indice)
+
+## <a name="aula7">7 - Estruturas de Repetição</a>
+<img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula7.png?raw=true" width="730">
+
+[Índice](#indice)
+
+## <a name="aula8">8 - Intervalo e Timeout</a>
+<img src="" width="730">
 
 [Índice](#indice)
