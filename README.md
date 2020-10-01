@@ -36,7 +36,7 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 2. Promises
 3. Utilizando Axios
 4. Desafio
-
+---
 ## <a name="aula1">1 - Variáveis e Dados</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula1.png?raw=true" width="600">
 
@@ -119,6 +119,7 @@ function exibeMensagem(endereco) {
     };
     console.log(exibeMensagem(endereco));
 ```
+---
 ### 2 - Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 ```JavaScript
 function pares(x,y) {
@@ -137,6 +138,7 @@ function pares(x, y) {
 }
 pares(32, 321);
 ```
+---
 ### 3 - Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript" e retorna um booleano true/false caso exista ou não.
 ```JavaScript
 function temHabilidade(skills) {
@@ -153,6 +155,7 @@ function temHabilidade(skills) {
 var skills = ["Javascript", "ReactJS", "React Native"];
 console.log(temHabilidade(skills));
 ```
+---
 ### 4 - Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 ```JavaScript
 function experiencia(anos) {
@@ -181,6 +184,7 @@ function experiencia(anos) {
 var anosEstudo = 7;
 console.log(experiencia(anosEstudo));
 ```
+---
 ### 5 - Dado o seguinte vetor de objetos:
 ```JavaScript
 var usuarios = [
