@@ -37,7 +37,7 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 3. Utilizando Axios
 4. Desafio
 ---
-## <a name="aula1">1 - Variáveis e Dados</a>
+### <a name="aula1">1 - Variáveis e Dados</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula1.png?raw=true" width="600">
 
 [Voltar ao Índice](#indice)
