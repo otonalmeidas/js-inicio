@@ -93,7 +93,7 @@ var endereco = {
 ```
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.
 ```
-#### Resolução:
+#### R:
 ```JavaScript
 function exibeMensagem(endereco) {
     return (
@@ -127,7 +127,7 @@ function pares(x,y) {
 }
 pares(32, 321);
 ```
-#### Resolução:
+#### R:
 ```JavaScript
 function pares(x, y) {
     for (var i = x; i <= y; i++) {
@@ -147,7 +147,7 @@ function temHabilidade(skills) {
 var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
 ```
-#### Resolução:
+#### R:
 ```JavaScript
 function temHabilidade(skills) {
     return skills.indexOf("Javascript") !== -1;
@@ -168,7 +168,7 @@ experiencia(anosEstudo);
 // De 3-6 anos: Avançado
 // De 7 acima: Jedi Master
 ```
-#### Resolução:
+#### R:
 ```JavaScript
 function experiencia(anos) {
     if (anos <= 1) {
@@ -203,7 +203,7 @@ var usuarios = [
 O Diego possui as habilidades: Javascript, ReactJS, Redux
 O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
 ```
-#### Resolução:
+#### R:
 ```JavaScript
 function exibeHabilidades(usuarios) {
     for (usuario of usuarios) {
