@@ -40,42 +40,42 @@ Para ter acesso, é necessário possuir cadastro no site da Rocketseat, e você 
 ## <a name="aula1">1 - Variáveis e Dados</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula1.png?raw=true" width="600">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="aula2">2 - Operações Matemáticas</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula2.png?raw=true" width="450">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="aula3">3 - Funções</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula3.png?raw=true" width="505">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
   ## <a name="aula4">4 - Condicionais</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula4.png?raw=true" width="720">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="aula5">5 - Operadores Lógicos</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula5.png?raw=true" width="669">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="aula6">6 - Condição Ternária</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula6.png?raw=true" width="733">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="aula7">7 - Estruturas de Repetição</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula7.png?raw=true" width="510">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="aula8">8 - Intervalo e Timeout</a>
 <img src="https://github.com/otonalmeidas/js-inicio/blob/master/screenshots/aula8.png?raw=true" width="728">
 
-[Índice](#indice)
+[Voltar ao Índice](#indice)
 
 ## <a name="desafio1">Desafios</a>
 
@@ -227,3 +227,4 @@ var usuarios = [
 ];
 exibeHabilidades(usuarios);
 ```
+[Voltar ao Índice](#indice)
